@@ -3,5 +3,5 @@
 - 🌱 I’m currently learning data structures and algorithms in C and test-driven development
 - 💞️ I’m looking to collaborate on any cool projects
 - 📫 How to reach me:
-  - LinkedIn: https://www.linkedin.com/in/therealdanweb/
-  - Email: therealdanweb@gmail.com
+-- LinkedIn: https://www.linkedin.com/in/therealdanweb/
+-- Email: therealdanweb@gmail.com
