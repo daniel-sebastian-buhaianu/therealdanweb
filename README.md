@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @therealdanweb
-- 👀 I’m interested in web development and AI
+- 👀 I’m interested in programming
 - 🌱 I’m currently learning data structures and algorithms
 - 💞️ I’m looking to collaborate on any cool projects
 - 📫 How to reach me:
