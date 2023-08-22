@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @therealdanweb
-- 👀 I’m interested in programming
-- 🌱 I’m currently learning data structures and algorithms
-- 💞️ I’m looking to collaborate on any cool projects
+- 👀 I’m interested in software development
+- 🌱 I’m currently learning data structures and algorithms in C
+  
 - 📫 How to reach me:
 -- LinkedIn: https://www.linkedin.com/in/therealdanweb/
 -- Email: therealdanweb@gmail.com
